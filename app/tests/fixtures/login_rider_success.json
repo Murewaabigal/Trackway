@@ -1,0 +1,10 @@
+{
+    "access_token": "test-access-token-rider",
+    "refresh_token": "test-refresh-token-rider",
+    "role": "rider",
+    "user": {
+        "id": 2,
+        "full_name": "TEST-MOBILE-RIDER",
+        "phone": "08087654321"
+    }
+}

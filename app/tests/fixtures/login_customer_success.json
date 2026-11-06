@@ -1,0 +1,11 @@
+{
+    "access_token": "test-access-token-customer",
+    "refresh_token": "test-refresh-token-customer",
+    "role": "customer",
+    "user": {
+        "id": 1,
+        "full_name": "TEST-MOBILE-CUSTOMER",
+        "phone": "08012345678",
+        "email": "test@trackway.ng"
+    }
+}

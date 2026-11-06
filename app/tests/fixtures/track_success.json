@@ -1,0 +1,18 @@
+{
+    "status": "success",
+    "data": {
+        "waybill_number": "TRACK-1234-ABCD",
+        "current_status": "in_transit",
+        "status_label": "In Transit",
+        "timeline": [
+            {"status": "pending_pickup", "label": "Pending Pickup", "timestamp": "2026-08-25 10:00", "completed": true},
+            {"status": "picked_up", "label": "Picked Up", "timestamp": "2026-08-25 14:30", "completed": true},
+            {"status": "in_transit", "label": "In Transit", "timestamp": "2026-08-26 08:00", "completed": false}
+        ],
+        "origin_city": "Lagos",
+        "destination_city": "Abuja",
+        "estimated_delivery": "2026-08-28",
+        "sender_name": "John D.",
+        "recipient_name": "Jane S."
+    }
+}

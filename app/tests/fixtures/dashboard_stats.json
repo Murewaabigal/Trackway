@@ -1,0 +1,13 @@
+{
+    "status": "success",
+    "data": {
+        "customer_id": 6,
+        "total_deliveries": 5,
+        "completed": 3,
+        "in_progress": 1,
+        "total_rides": 2,
+        "referral_balance": "500.00",
+        "referral_code": "REF65598A0",
+        "name": "Akinpelu Faith"
+    }
+}

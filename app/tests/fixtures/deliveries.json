@@ -1,0 +1,26 @@
+{
+    "status": "success",
+    "data": {
+        "deliveries": [
+            {
+                "waybill_number": "TW260811409216",
+                "origin": "Akure",
+                "destination": "Akure",
+                "status": "cancelled",
+                "fee": "4000.00",
+                "created_at": "2026-08-11"
+            },
+            {
+                "waybill_number": "TW26082691536A",
+                "origin": "Lagos",
+                "destination": "Abuja",
+                "status": "in_transit",
+                "fee": "12000.00",
+                "created_at": "2026-08-26"
+            }
+        ],
+        "page": 1,
+        "has_more": false,
+        "total": 2
+    }
+}

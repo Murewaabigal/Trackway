@@ -1,0 +1,2 @@
+title_container heights: c1=40.0 c2=40.0 diff=0.0
+PASS: icon anchored to title, not body - structural split ensures icon height tied to title only
